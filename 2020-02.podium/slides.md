@@ -73,6 +73,12 @@ class: title
 
 ---
 
+# Book Drawing
+
+![](effective-pycharm.jpg)
+
+---
+
 class: title
 
 # Opening and Main Topics
