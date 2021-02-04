@@ -31,7 +31,8 @@ class: logo
 # Next Online Meetup
 
 - First Thursday: March 4, 7pm
-- Topic: TBD?
+- Topic: Visual Data with Dash
+- Speaker: Mike Laske
 
 ---
 
