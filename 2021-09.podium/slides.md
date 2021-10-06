@@ -20,6 +20,13 @@ class: logo
 
 ---
 
+# Cleveland Water Alliance
+# Erie Hack
+
+## Felicia Oentoro
+
+---
+
 # Speakers Needed!
 
 - We want a diverse (age, gender, religion, race, sexuality, python skill level) range of speakers from our community
